@@ -20,3 +20,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconr4&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconr4&layout=compact&theme=tokyonight"/>
 </p>
+
+### 🎮 Pac-Man Dev
+
+<p align="center">
+  🟡
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
