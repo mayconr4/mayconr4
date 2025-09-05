@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou o Maycon!
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre aprendendo coisas novas.  
-🚀 Explorando o mundo do desenvolvimento com foco em **Backend** e **Web**.  
+🚀 Explorando o mundo do desenvolvimento com foco em **Backend** e **Web**.   
+📖Estou na reta Final do curso Técnico de Infomática para Internet No SENAC 
 
 ---
 
