@@ -9,7 +9,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,spring,mysql,html,css,js,github,react,nextjs,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=java,php,spring,mysql,html,css,js,github,react,nextjs,nodejs,python,supabase,hibernate" />
 </p>
 
 ---
