@@ -14,16 +14,17 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconr4&show_icons=true&theme=tokyonight"/>
-  
-</p>
----
-
+### 🖥️ Linguagens mais usadas
 
 <p align="left">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconr4&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+]### 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconr4&show_icons=true&theme=tokyonight"/>   
 </p>
 
