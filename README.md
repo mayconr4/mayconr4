@@ -1,39 +1,67 @@
 ## 👋 Olá, eu sou o Maycon!
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre aprendendo coisas novas.  
-🚀 Explorando o mundo do desenvolvimento com foco em **Backend** e **Web**.   
-📖Estou na reta Final do curso Técnico de Infomática para Internet No SENAC 
+🚀 Foco em **Backend** e **Desenvolvimento Web**, criando soluções eficientes e escaláveis.  
+📖 Atualmente na reta final do curso Técnico de **Informática para Internet** no **SENAC**.  
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-  #### Back-End
+#### 💻 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,python" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,nodejs" />
 </p>
 
-#### Frameworks
+#### ⚛️ Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,express" />
 </p>
 
-
-  #### Banco de dados
+#### 🗄️ Banco de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate,postgresql" />
 </p>
 
-  #### Front-End
+#### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
+
+#### 🛠️ Ferramentas & Versionamento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+</p>
+
 ---
 
-🖥️ Linguagens mais utilizadas
+### 📂 Projetos Recentes
+- [💡 Sistema de Eventos](https://github.com/mayconr4/eventos) – CRUD de eventos usando PHP e MySQL  
+- [📝 Blog com React](https://github.com/mayconr4/blog-react) – Blog funcional com frontend em React e backend em Node.js  
+- [🎬 Dahora Filmes](https://github.com/mayconr4/dahora-filmes) – Aplicação de filmes com React Native  
 
-<p align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconr4&layout=compact&theme=tokyonight"/>
+---
+
+### 📊 Estatísticas de GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconr4&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconr4&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
+### 🌱 Atualmente aprendendo
+- Arquitetura de **APIs REST** e **Microservices**  
+- **TypeScript** avançado  
+- **NestJS** para backend escalável  
+
+---
+
+### 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/mayconr4)  
+- [GitHub](https://github.com/mayconr4)  
+
+---
+
+⭐ Se você gostou do meu perfil, me deixe um **star!**  
