@@ -15,7 +15,7 @@
 
 #### ⚛️ Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs" />
 </p>
 
 #### 🗄️ Banco de Dados
@@ -30,7 +30,7 @@
 
 #### 🛠️ Ferramentas & Versionamento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,intelij" />
 </p>
 
 ---
@@ -52,10 +52,8 @@
 ---
 
 ### 🌱 Atualmente aprendendo
-- Arquitetura de **APIs REST** e **Microservices**  
-- **TypeScript** avançado  
-- **NestJS** para backend escalável  
-
+- Arquitetura de **APIs REST** e **Microservices** em java   
+- **React Native** em andamento projetos
 ---
 
 ### 📫 Vamos nos conectar?
