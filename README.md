@@ -13,6 +13,12 @@
   <img src="https://skillicons.dev/icons?i=java,php,spring,nodejs,python" />
 </p>
 
+#### Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs" />
+</p>
+
+
   #### Banco de dados
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate" />
@@ -20,7 +26,7 @@
 
   #### Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 ---
 
