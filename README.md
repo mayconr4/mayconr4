@@ -10,7 +10,7 @@
 
   #### Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,spring,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=java,php,python" />
 </p>
 
 #### Frameworks
@@ -26,7 +26,7 @@
 
   #### Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs," />
 </p>
 ---
 
