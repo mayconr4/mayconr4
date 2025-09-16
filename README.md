@@ -8,17 +8,17 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-  Back-End
+  #### Back-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,spring,nodejs,python" />
 </p>
 
-  Banco de dados
+  #### Banco de dados
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate" />
 </p>
 
-  Front-End
+  #### Front-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
 </p>
