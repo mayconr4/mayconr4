@@ -9,9 +9,19 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,spring,mysql,html,css,js,github,react,nextjs,nodejs,python,supabase,hibernate" />
+  Back-End
+  <img src="https://skillicons.dev/icons?i=java,php,spring,nodejs,python" />
 </p>
 
+<p align="left">
+  Banco de dados
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate" />
+</p>
+
+<p align="left">
+  Front-End
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
+</p>
 ---
 
 🖥️ Linguagens mais utilizadas
