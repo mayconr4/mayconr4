@@ -15,7 +15,7 @@
 
 #### Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs" />
 </p>
 
 
