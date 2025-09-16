@@ -30,7 +30,7 @@
 
 #### 🛠️ Ferramentas & Versionamento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,intelij" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,inteliJ" />
 </p>
 
 ---
