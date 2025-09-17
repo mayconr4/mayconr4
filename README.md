@@ -20,7 +20,7 @@
 
 #### 🗄️ Banco de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,hibernate" />
 </p>
 
 #### 🎨 Frontend
